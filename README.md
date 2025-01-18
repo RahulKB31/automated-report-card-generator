@@ -4,7 +4,7 @@
 
 This project automates the generation of personalized report cards for students. It reads student data from an Excel file, processes the data, and generates PDF report cards for each student. The generated report cards include the student's name, student ID, total score, average score, and a table of subject-wise scores.
 
-![Report Card](assets/report_card_example.png)
+![Report Card](https://github.com/RahulKB31/automated-report-card-generator/blob/main/report_card.jpg)
 
 
 ## Features
